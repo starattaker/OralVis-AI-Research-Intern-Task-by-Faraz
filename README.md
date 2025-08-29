@@ -35,4 +35,5 @@ This repository contains the code and resources for training a YOLOv8 model to p
 
 ## Training Command Example:
 !yolo val model=runs/detect/train/weights/best.pt data=data.yaml split=val
+
 !yolo val model=runs/detect/train/weights/best.pt data=data.yaml split=test
