@@ -20,7 +20,6 @@ This repository contains the code and resources for training a YOLOv8 model to p
 *   `data.yaml`: Data configuration file.
 *   `requirements.txt`: List of Python dependencies.
 *   `runs/detect/train/weights/best.pt`: The trained model weights.
-*   `dataset_split/`: Directory containing the split dataset (consider if you want to upload the entire dataset or provide instructions on how to download and split it).
 *   `runs/detect/train/results.png`: Training curves plot.
 *   `runs/detect/val*/confusion_matrix.png`: Confusion Matrix plot (replace `val*` with your validation run directory name).
 *   `runs/detect/val*/PR_curve.png`, `runs/detect/val*/R_curve.png`, `runs/detect/val*/F1_curve.png`: Evaluation curve plots.
