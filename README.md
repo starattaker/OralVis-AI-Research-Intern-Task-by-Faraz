@@ -29,7 +29,6 @@ This repository contains the code and resources for training a YOLOv8 model to p
 
 1.  Clone the repository.
 2.  Install dependencies using `pip install -r requirements.txt`.
-3.  (Provide instructions on how to download and prepare the dataset if not included in the repo).
 4.  Run the Jupyter notebook or relevant Python scripts to reproduce the training and evaluation.
 
 ## Training Command Example:
